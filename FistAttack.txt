@@ -1,0 +1,24 @@
++-----------------------------------------------------------------+
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|               XXX        XXX                                    |
+|             XXX  X     XXX XXX       XXXXXXX                    |
+|            XX    XX   XX     XXX    XX     XXX                  |
+|            X      XX XX        XX  XX        XX                 |
+|            X       X X          XX X          XX                |
+|            X       XXX           X X           XX               |
+|            X       XX            XXX            X   XXXX        |
+|            X       XX             X             XXXXX  XX       |
+|     XXXXX  XX      XX             X            XXX      X       |
+|     X   XXX X       X             X            XX       XX      |
+|     X     XXXX                    X           XX         X      |
+|     X       XX                                X         XX      |
+|     X        X                                          X       |
+|      XX                                                XX       |
+|       XX                                              XX        |
+|         XX                                           XX         |
+|           XX                                        XX          |
+|            XXX                                     XX           |
++----------------------------------------------------X------------+
