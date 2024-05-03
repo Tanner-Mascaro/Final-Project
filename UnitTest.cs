@@ -16,8 +16,22 @@ public class PlayerTests
     }
 
     [Test]
-    public void ShowsInstructions()
+    public void Sword_Constructor_Correct()
     {
+        Sword sword = new Sword()
 
+        Assert.That(sword.Name, Is.EqualTo("Sword"));
+        Assert.That(sword.AttackDamage, Is.EqualTo(3));
+        Assert.That(sword.Durability, Is.EqualTo(6));
+    }
+
+    [Test]
+    public void Mace_Constructuctor_Correct()
+    {
+        Mace mace = new Mace();
+
+        Assert.That(mace.Name, Is.Equal("Mace"));
+        Assert.That(mace.AttackDamage, Is.Equal(5));
+        Assert.That(mace.Durability, Is.Equal(3));
     }
 }
